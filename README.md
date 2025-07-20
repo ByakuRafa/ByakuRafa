@@ -21,8 +21,9 @@
 ---
 
 ## 🔭 Atualmente
-- Trabalhando em um jogo isométrico de sobrevivência em Godot 4 inspirado em Call of Duty Zombies.
-- Desenvolvendo um sistema de para Câmara de Vereadores.
+- Desenvolvendo um sistemas de para Câmara de Vereadores.
+- Trabalhando em um jogo mobile...
+
 
 ## 🌱 No momento estou aprendendo
 - Hotwire & Stimulus para front-end mais dinâmico.

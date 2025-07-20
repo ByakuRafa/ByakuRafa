@@ -51,8 +51,6 @@
 | 🗳️ **Sistema de Votação (Node.js)** | Backend com JWT, drag & drop, dashboard em tempo real. | [Repositório](#) |
 | 🌐 **Portfolio Website** | Site pessoal com Next.js e TailwindCSS. | [Demo](#) |
 
-> ⚙️ *Adicione aqui outros projetos que você queira destacar.*
-
 ---
 
 ## 📊 Estatísticas GitHub

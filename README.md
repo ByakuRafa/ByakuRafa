@@ -47,9 +47,8 @@
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
-| 🎮 **Godot Zombies Gaúcho** | Jogo isométrico de sobrevivência, perks baseados em folclore dos pampas. | [Repositório](#) |
+| 🎮 **Primeiro Game** | Jogo topdown de sobrevivência e pontuação, experimental. | [Repositório](#) |
 | 🗳️ **Sistema de Votação (Node.js)** | Backend com JWT, drag & drop, dashboard em tempo real. | [Repositório](#) |
-| 🤖 **Analisador de Sentimentos (Python + IA)** | Bot que classifica emoções de mensagens usando HuggingFace. | [Repositório](#) |
 | 🌐 **Portfolio Website** | Site pessoal com Next.js e TailwindCSS. | [Demo](#) |
 
 > ⚙️ *Adicione aqui outros projetos que você queira destacar.*

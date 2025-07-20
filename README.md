@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-  <h1>👋 Olá, eu sou o Rafael Garcia Blanco</h1>
+  <h1>👋 Rafael Garcia Blanco | ByakuRafa</h1>
   <p>Desenvolvedor de Software | Indie Game Dev | Entusiasta de Consoles & VR</p>
 
   <!-- Badges de redes sociais -->

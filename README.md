@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-  <img src="https://img.shields.io/badge/PHP-3776AB?style=flat&logo=php?style=for-the-badge&logo=git&logoColor=F05032" alt="PHP"/>
+  <img src="https://img.shields.io/badge/PHP-3776AB?style=flat&logo=php?style=for-the-badge&logo=php&logoColor=F05032" alt="PHP"/>
   
 </div>
 

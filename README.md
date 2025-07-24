@@ -68,10 +68,11 @@
 
 - 📫 E-mail: rafael.blanco.dev@gmail.com 
 - 💼 LinkedIn: [linkedin.com/in/seu-linkedin](https://linkedin.com/in/seu-linkedin)  
-🐦 Twitter: [@seu-twitter](https://twitter.com/seu-twitter)  -->
+🐦 Twitter: [@seu-twitter](https://twitter.com/seu-twitter)  
 
 ---
 
 <p align="center">
   Made with ❤️ by Rafael Garcia Blanco
-</p>
+</p> -->
+

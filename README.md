@@ -48,11 +48,11 @@
 
 ## 📂 Portfólio de Projetos
 
-| Projeto | Descrição | Link |
-|---------|-----------|------|
-| 🎮 **Primeiro Game** | Jogo topdown de sobrevivência e pontuação, experimental. | [Repositório](#) |
-| 🗳️ **Sistema de Votação (Node.js)** | Backend com JWT, drag & drop, dashboard em tempo real. | [Repositório](#) |
-| 🌐 **Portfolio Website** | Site pessoal com Next.js e TailwindCSS. | [Demo](#) |
+| Projeto | Descrição |
+|---------|-----------|
+| 🎮 **Primeiro Game** | Jogo topdown de sobrevivência e pontuação, experimental. |
+| 🗳️ **Sistema de Votação (Node.js)** | Backend com JWT, drag & drop, dashboard em tempo real. |
+| 🌐 **Portfolio Website** | Site pessoal com Next.js e TailwindCSS. | 
 
 ---
 

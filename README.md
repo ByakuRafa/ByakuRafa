@@ -59,7 +59,7 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5]" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ByakuRafa&size_weight=0.5&count_weight=0.5]" alt="GitHub Stats" />
   [Top Langs]()
 </div>
 

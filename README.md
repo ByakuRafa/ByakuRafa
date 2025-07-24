@@ -52,7 +52,7 @@
 |---------|-----------|
 | 🎮 **Primeiro Game** | Jogo topdown de sobrevivência e pontuação, experimental. |
 | 🗳️ **Sistema de Votação (Node.js)** | Backend com JWT, drag & drop, dashboard em tempo real. |
-| 🌐 **Portfolio Website** | Site pessoal com Next.js e TailwindCSS. | 
+| 🌐 Website com SpringBoot | Teste do springBoot e suas capacidades. | 
 
 ---
 

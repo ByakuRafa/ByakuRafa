@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-  <h1>👋 Rafael Garcia Blanco | ByakuRafa</h1>
+  <h1> Rafael Garcia Blanco | ByakuRafa</h1>
   <p>Desenvolvedor de Software | Indie Game Dev | Entusiasta de Consoles & VR</p>
 
   <!-- Badges de redes sociais -->
@@ -20,16 +20,16 @@
 
 ---
 
-## 🔭 Atualmente
+## Atualmente
 - Desenvolvendo um sistemas de para Câmara de Vereadores.
 - Trabalhando em um jogo mobile...
 
 
-## 🌱 No momento estou aprendendo
+## No momento estou aprendendo
 - Hotwire & Stimulus para front-end mais dinâmico.
 - Técnicas avançadas de shaders em Godot 4.
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
   <!-- badges de tecnologias -->

@@ -1,5 +1,5 @@
 <!--
-  🚀 README do Perfil GitHub
+   README do Perfil GitHub
 -->
 
 <div align="center">
@@ -46,13 +46,13 @@
 
 ---
 
-## 📂 Portfólio de Projetos
+##  Portfólio de Projetos
 
 | Projeto | Descrição |
 |---------|-----------|
-| 🎮 **Primeiro Game** | Jogo topdown de sobrevivência e pontuação, experimental. |
-| 🗳️ **Sistema de Votação (Node.js)** | Backend com JWT, drag & drop, dashboard em tempo real. |
-| 🌐 Website com SpringBoot | Teste do springBoot e suas capacidades. | 
+|  **Primeiro Game** | Jogo topdown de sobrevivência e pontuação, experimental. |
+|  **Sistema de Votação (PHP / React)** | Backend com JWT, drag & drop, dashboard em tempo real. |
+|  Website com SpringBoot | Teste do springBoot e suas capacidades. | 
 
 ---
 
@@ -63,15 +63,5 @@
 </div>
 ---
 
-<!--- ## 🤝 Vamos nos conectar?
 
-- 📫 E-mail: rafael.blanco.dev@gmail.com 
-- 💼 LinkedIn: [linkedin.com/in/seu-linkedin](https://linkedin.com/in/seu-linkedin)  
-🐦 Twitter: [@seu-twitter](https://twitter.com/seu-twitter)  
-
----
-
-<p align="center">
-  Made with ❤️ by Rafael Garcia Blanco
-</p> -->
 

@@ -7,13 +7,10 @@
   <p>Desenvolvedor de Software | Indie Game Dev | Entusiasta de Consoles & VR</p>
 
   <!-- Badges de redes sociais -->
-  <a href="https://linkedin.com/in/seu-linkedin">
+  <a href="https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/rafael-garcia-blanco/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/seu-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:rafael.blanco.dev+linkedin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>

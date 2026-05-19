@@ -37,7 +37,7 @@
 ### Most used technologies:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByakuRafa&layout=compact&langs_count=10&hide_border=true&title_color=000&text_color=000&bg_color=default"
+  <img src="image.png"
        alt="Top Languages"
        style="margin-top:20px;"
        height="280px"

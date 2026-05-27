@@ -37,7 +37,7 @@
 ### Most used technologies:
 
 <p align="center">
-  <img src="image.png"
+  <img src="img"
        alt="Top Languages"
        style="margin-top:20px;"
        height="280px"

@@ -65,7 +65,7 @@
 ---
 
 ## Education
-- **Postgraduate in Robotics and Artificial Intelligence** - UTEC (2025 - 2026)
+- **Postgraduate in Robotics and Artificial Intelligence** - UTEC (2025 - 2027)
 - **Technologist in Systems Analysis and Development** - IFSUL (2024)
 
 ---

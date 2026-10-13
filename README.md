@@ -70,14 +70,6 @@
 
 ### 📊 Estatísticas do GitHub (Foco em Backend & Lógica)
 
-<div align="center">
-  <a href="https://github.com/byakurafa">
-    <img 
-      height="190" 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=byakurafa&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&show=reviews,prs_merged&hide_border=true" 
-    />
-  </a>
   
   <a href="https://github.com/byakurafa">
     <img 

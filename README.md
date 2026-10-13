@@ -1,72 +1,102 @@
-<h1 align="center">Hi! I'm Rafael Blanco 👾</h1>
+<h1 align="center">Olá! Sou o Rafael Garcia Blanco 👾</h1>
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2496ED&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Software+Engineer+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;%E2%8A%B9+Full+Stack+Developer+%E2%8A%B9;%E2%8A%B9+AI+%26+Robotics+%E2%8A%B9;%E2%8A%B9+Indie+Game+Dev+%E2%8A%B9" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2496ED&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Software+Engineer+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;%E2%8A%B9+AI+%26+Robotics+Specialist+%E2%8A%B9;%E2%8A%B9+Full+Stack+Backend+Developer+%E2%8A%B9;%E2%8A%B9+Indie+Game+Dev+%E2%8A%B9" alt="Typing SVG">
   </a>
 </p>
-  <p align="center">Software Engineer | Postgraduate Student in Robotics and AI - UTEC<br></p>
-
----
-
-### Technologies I use:
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python (AI & Robotics)" width="40" height="40"/>
+  <b>Engenheiro de Software Especialista | IA, Robótica & Sistemas de Missão Crítica</b><br>
+  Trilíngue (Português, Espanhol, Inglês) | Focado em transformar dados complexos em soluções escaláveis.
 </p>
 
 ---
 
-### Currently learning & exploring:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot 4" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" title="Blender" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine 5" width="40" height="40"/>
+### 🚀 Sobre Mim
+- 💼 **Atualmente:** Engenheiro de Software Full Stack construindo sistemas de alta disponibilidade, focado em tolerância a falhas e arquiteturas complexas (RBAC).
+- 🎓 **Estudando:** Pós-graduação em Robótica e Inteligência Artificial (UTEC/FURG/UNRaf) e aprofundando em Data Science.
+- 🔬 **Pesquisa & Inovação:** Prototipagem de agentes de IA, visão computacional (Edge AI) e RAG aplicados a problemas reais.
+- 👾 **Game Dev:** Desenvolvedor Indie utilizando Godot 4 (Shaders, IA de inimigos e design de níveis).
+- 📫 **Contato:** rafael.blanco.dev@gmail.com
+
+---
+
+### 💻 Minha Stack Tecnológica
+
+<p align="left">
+  <b>Backend & IA:</b><br>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" title="Laravel"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>
+</p>
+
+<p align="left">
+  <b>Frontend & Game Dev:</b><br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript"/>
+  <img src="https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" title="Godot 4"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" title="Blender"/>
+</p>
+
+<p align="left">
+  <b>DevOps & Ferramentas:</b><br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" title="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git"/>
 </p>
 
 ---
 
-### Most used technologies:
-
-<p align="center">
-  <img src="mulgh.svg"
-       alt="Top Languages"
-       style="margin-top:20px;"
-       height="280px"
-       width="40%" />
-</p>
-
-## Featured Projects  
+### 🏆 Projetos em Destaque
 
 <div align="left">
 
-🔹 <b>City Council Real-Time Voting System</b>  
-&nbsp;&nbsp;&nbsp;Mission-critical legislative platform built with PHP and JavaScript, featuring high availability, JWT authentication, and a real-time dashboard for concurrent sessions.
+🔹 <b>Sistema de Votação em Tempo Real (Missão Crítica)</b>  
+&nbsp;&nbsp;&nbsp;Plataforma legislativa construída com PHP e JavaScript, garantindo 100% de disponibilidade em sessões concorrentes por meio de tolerância a falhas e dashboard em tempo real.
 
-🔹 <b>Superliga Padel Platform</b>  
-&nbsp;&nbsp;&nbsp;End-to-end sports management software focusing on complex database structures, registration logic, and frontend scoring systems.
+🔹 <b>Monitoramento Visual com Edge AI e Princípios 5S</b>  
+&nbsp;&nbsp;&nbsp;Pesquisa e aplicação de visão computacional para avaliação automática de conformidade de bancadas industriais.
 
-🔹 <b>Legislative Ouvidoria & Diárias Systems</b>  
-&nbsp;&nbsp;&nbsp;Financial accountability and public listening platforms built with Laravel and SQL, implementing strict Role-Based Access Control (RBAC) and complex query optimizations.
+🔹 <b>Sistemas de Ouvidoria & Diárias (GovTech)</b>  
+&nbsp;&nbsp;&nbsp;Plataformas de *accountability* financeira construídas com Laravel e SQL, implementando rigoroso Controle de Acesso Baseado em Funções (RBAC).
 
 🔹 <b>Horde Survival Game (Godot 4)</b>  
-&nbsp;&nbsp;&nbsp;Indie survival game leveraging Godot 4, focusing on custom advanced shaders, level design, and lore development.
+&nbsp;&nbsp;&nbsp;Jogo indie focado no desenvolvimento de shaders avançados customizados, design de níveis e otimização de física.
 
 </div>
 
 ---
 
-## Education
-- **Postgraduate in Robotics and Artificial Intelligence** - UTEC (2025 - 2027)
-- **Technologist in Systems Analysis and Development** - IFSUL (2024)
+### 📊 Estatísticas do GitHub (Foco em Backend & Lógica)
+
+<div align="center">
+  <a href="https://github.com/byakurafa">
+    <img 
+      height="190" 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api?username=byakurafa&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&show=reviews,prs_merged&hide_border=true" 
+    />
+  </a>
+  
+  <a href="https://github.com/byakurafa">
+    <img 
+      height="190" 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=byakurafa&layout=compact&langs_count=6&hide=html,css,scss,blade,Rich%20Text%20Format&size_weight=0.5&count_weight=0.5&theme=tokyonight&locale=pt-br&hide_border=true" 
+    />
+  </a>
+</div>
+
+<br>
+
+---
+
+### 🎓 Educação e Certificações
+- **Pós-graduação em Robótica e Inteligência Artificial** - UTEC / FURG / UNRaf (2025 - 2027)
+- **Urban Data Science Summer School** - Tuscia University, Itália (2026)
+- **Fundamentals of Deep Learning** - NVIDIA (2026)
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - IFSUL (2024)
 
 ---
 
@@ -74,9 +104,7 @@
   <a href="https://www.linkedin.com/in/rafael-garcia-blanco/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rafael.blanco.dev+linkedin@gmail.com" target="_blank">
+  <a href="mailto:rafael.blanco.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
----

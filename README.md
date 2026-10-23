@@ -75,8 +75,9 @@
     <img 
       height="190" 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=byakurafa&layout=compact&langs_count=6&hide=html,css,scss,blade,Rich%20Text%20Format&size_weight=0.5&count_weight=0.5&theme=tokyonight&locale=pt-br&hide_border=true" 
+      src= "top-lang2.svg"
     />
+      <!-- "https://github-readme-stats.vercel.app/api/top-langs/?username=byakurafa&layout=compact&langs_count=6&hide=html,css,scss,blade,Rich%20Text%20Format&size_weight=0.5&count_weight=0.5&theme=tokyonight&locale=pt-br&hide_border=true" -->
   </a>
 </div>
 

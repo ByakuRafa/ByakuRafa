@@ -67,6 +67,21 @@
 
 ---
 
+### GitHub Analytics (Backend & Logic Focus)
+
+<div align="center">
+  <a href="https://github.com/byakurafa">
+    <img 
+      height="190" 
+      align="center" 
+      src="download (1).svg" 
+      alt="Top Languages"
+    />
+  </a>
+</div>
+
+---
+
 ### Featured Engineering & Research Projects
 
 | Project | Stack | Architectural Highlights |
@@ -87,18 +102,3 @@
 - **Fundamentals of Deep Learning** — NVIDIA Deep Learning Institute *(2026)*
 - **B.Tech in Systems Analysis and Development** — IFSul *(2024)*
 - **Peer-Reviewed Publication:** *Iterbiedo: intermediary software development for remote educational content* — *Brazilian Journal of Development* (`DOI: 10.34117/bjdv11n8-001`)
-
----
-
-### GitHub Analytics (Backend & Logic Focus)
-
-<div align="center">
-  <a href="https://github.com/byakurafa">
-    <img 
-      height="190" 
-      align="center" 
-      src="download (1).svg" 
-      alt="Top Languages"
-    />
-  </a>
-</div>

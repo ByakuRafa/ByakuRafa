@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Rafael Garcia Blanco 👋</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend;Applied+AI;Software+Engineer;Indie+Game+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend;Applied+AI;Software+Engineer;Indie+Game+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=2496ED¢er=true&vCenter=true&width=680&lines=Backend+%26+Applied+AI+Software+Engineer;Python+(FastAPI)+%7C+PHP+(Laravel)+%7C+Node.js;LangGraph+%7C+Hybrid+RAG+%7C+MCP+%7C+Edge+AI;Mission-Critical+Systems+%26+Indie+Game+Dev" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">

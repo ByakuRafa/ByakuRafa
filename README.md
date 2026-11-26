@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Backend & Languages**  
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -67,7 +67,7 @@
 
 ---
 
-### 🏆 Featured Engineering & Research Projects
+### Featured Engineering & Research Projects
 
 | Project | Stack | Architectural Highlights |
 | :--- | :--- | :--- |
@@ -80,7 +80,7 @@
 
 ---
 
-### 🎓 Education, Research & Certifications
+### Education, Research & Certifications
 
 - **Postgraduate Specialization in Robotics & Artificial Intelligence** — FURG (Brazil) / UTEC (Uruguay) / UNRaf (Argentina) *(2025 – 2027)*
 - **Urban Data Science International Summer School** — Università della Tuscia (Italy) & NYU *(2026)*
@@ -90,22 +90,14 @@
 
 ---
 
-### 📊 GitHub Analytics (Backend & Logic Focus)
+### GitHub Analytics (Backend & Logic Focus)
 
 <div align="center">
   <a href="https://github.com/byakurafa">
     <img 
       height="190" 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=byakurafa&show_icons=true&theme=tokyonight&include_all_commits=true&show=reviews,prs_merged&hide_border=true" 
-      alt="Rafael's GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/byakurafa">
-    <img 
-      height="190" 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=byakurafa&layout=compact&langs_count=6&hide=html,css,scss,blade,Rich%20Text%20Format&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" 
+      src="download (1).svg" 
       alt="Top Languages"
     />
   </a>
